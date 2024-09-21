@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Images\backGorund.jpg" />
+    <None Remove="Images\backGround.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\backGorund.jpg" />
+    <Resource Include="Images\backGround.jpg" />
   </ItemGroup>
 
 </Project>

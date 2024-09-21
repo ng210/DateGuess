@@ -9,7 +9,7 @@
         WindowStyle="None" ResizeMode="NoResize">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="pack://application:,,,/Images/backGorund.jpg/"/>
+            <ImageBrush ImageSource="pack://application:,,,/Images/backGround.jpg"/>
         </Grid.Background>
         
         <Grid.RowDefinitions>
